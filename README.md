@@ -1,5 +1,9 @@
+<div align="center"><img src="img/banner1.jpg"/></div>
+
+# 🔏 Descifrador de texto
+
 <p align="center" >
-     <img width="1352" heigth="766" src="https://github.com/arcesoftware/Challenge-Oracle-One/blob/main/img/screen.JPG">
+     <img width="1352" heigth="766" src="img/captura.jpg">
 </p>
 
 <div align="center">
@@ -46,7 +50,3 @@ Las "llaves" de encriptación que se utilizaron son las siguiente:
 ### Extras:
 
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
-
-
-
-[Reto 1 Alura Latam - Oracle Next One Realizado en Costa Rica por Juan Arce de Arce Software en Diciembre del 2022] (https://github.com/arcesoftware/Challenge-Oracle-One)
